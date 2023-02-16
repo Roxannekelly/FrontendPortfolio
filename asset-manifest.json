@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Webpage/static/css/main.cedd4ebc.css",
+    "main.js": "/Webpage/static/js/main.bf5198d5.js",
+    "static/media/Kelly.jpg": "/Webpage/static/media/Kelly.cc11319fc64e0eae43fd.jpg",
+    "static/media/Plant.jpg": "/Webpage/static/media/Plant.c496c003855756d09cb3.jpg",
+    "static/media/Resume.pdf": "/Webpage/static/media/Resume.39352cac2e6f590508c0.pdf",
+    "static/media/Starbuck.png": "/Webpage/static/media/Starbuck.89f0e377b3aac357aed5.png",
+    "index.html": "/Webpage/index.html",
+    "main.cedd4ebc.css.map": "/Webpage/static/css/main.cedd4ebc.css.map",
+    "main.bf5198d5.js.map": "/Webpage/static/js/main.bf5198d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cedd4ebc.css",
+    "static/js/main.bf5198d5.js"
+  ]
+}
